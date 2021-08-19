@@ -1,0 +1,9 @@
+{
+    "hero": {
+        "title": "Elektroarbeiten",
+        "image": "../../src/images/elektro.jpg"
+    },
+    "intro": {
+        "text": "<p>Wir führen sämtliche Kabelverlegung durch.</p>"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "hero": {
+        "title": "Tapezierarbeiten",
+        "image": "../../src/images/tapezieren.jpg"
+    },
+    "intro": {
+        "text": "<p>Wie tapezieren mit Raufaser Ihrer Wahl.</p>"
+    }
+}

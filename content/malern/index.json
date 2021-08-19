@@ -1,0 +1,9 @@
+{
+    "hero": {
+        "title": "Malerarbeiten",
+        "image": "../../src/images/tapezieren.jpg"
+    },
+    "intro": {
+        "text": "<p>Wie streichen mit der Farbe Ihrer Wahl.</p>"
+    }
+}

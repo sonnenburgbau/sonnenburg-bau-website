@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700;900&display=swap');
+
+// Importing variables
+@import './variables.scss';
+
+// Importing Bulma from node_modules
+@import '~bulma/bulma.sass';
+
+// Box
+.box.is-hoverable {
+	cursor: pointer;
+    border-radius: 16px;
+	box-shadow: 0 2rem 3rem -1.25rem rgba(10,10,10,.2);
+	transition-duration: 250ms;
+	transition-property: all;
+	will-change: transform;
+}
+
+.box.is-hoverable:hover {
+	box-shadow: 0 3rem 3rem -1.25rem rgba(10,10,10,.2);
+	transform: translateY(-.5rem);
+}
+
+.box.is-hoverable .title {
+	color: #fff !important;
+	transition-duration: 250ms;
+	transition-property: all;
+	will-change: transform;
+}
+
+.box.is-hoverable:hover .title {
+	color: $secondary-color !important;
+}
+
+.footer {
+	position: relative;
+	background-size: cover;
+	background-color: $primary-color;
+	//background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 829.4" preserveAspectRatio="none"><path fill= "rgb(1, 67, 104)" fill-opacity= "0.7" fill-rule= "evenodd" d="M0,10266s198.4,114,387,5,497.966-214.4,774-170,689.47,140,759,169v650H0v-654Z" transform="translate(0 -10090.6)"/></svg>');
+	background-repeat: no-repeat;
+	background-position: center center;
+	width: 100%;
+	padding: 0;
+	padding: 40px 0;
+	color: #fff;
+}

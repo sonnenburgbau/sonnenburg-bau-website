@@ -1,0 +1,34 @@
+{
+    "leistungen": [
+        {
+            "title": "Trockenbau",
+            "image": "../../src/images/trockenbau.jpg",
+            "link": "/trockenbau" 
+        },
+        {
+            "title": "Spachtelarbeiten",
+            "image": "../../src/images/spachtelarbeiten.jpg",
+            "link": "/spachtelarbeiten" 
+        },
+        {
+            "title": "Boden",
+            "image": "../../src/images/boden.jpg",
+            "link": "/boden" 
+        },
+        {
+            "title": "Tapezieren",
+            "image": "../../src/images/tapezieren.jpg",
+            "link": "/tapezieren" 
+        },
+        {
+            "title": "Malern",
+            "image": "../../src/images/tapezieren.jpg",
+            "link": "/malern" 
+        },
+        {
+            "title": "Elektro",
+            "image": "../../src/images/elektro.jpg",
+            "link": "/elektro" 
+        }
+    ]
+}

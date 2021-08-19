@@ -1,0 +1,9 @@
+{
+    "hero": {
+        "title": "Boden",
+        "image": "../../src/images/boden.jpg"
+    },
+    "intro": {
+        "text": "<p>Wir statten Räume mit Teppich-, Linoleum-, PVC- und Korkböden oder Belägen aus anderem Material wie Laminat oder Fertigparkett aus.</p>"
+    }
+}

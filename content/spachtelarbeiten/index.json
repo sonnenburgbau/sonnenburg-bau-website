@@ -1,0 +1,38 @@
+{
+    "hero": {
+        "title": "Spachtelarbeiten",
+        "image": "../../src/images/spachtelarbeiten.jpg"
+    },
+    "intro": {
+        "text": "<p>Text?</p>"
+    },
+    "quality": {
+        "headline": "Die Glätte-Grade einer Wand erfolgen in der Einteilung Q1-Q4.",
+        "level": [
+            {
+                "title": "Q1 Spachteln — Qualitätsstufe 1",
+                "subtitle": "Untergrundregulierung",
+                "text": "An die Oberflächen werden keine optischen (dekorativen) Anforderungen gestellt. Es reicht eine Grundverspachtelung der Fugen und der Befestigungsmittel.",
+                "case": "Anwendung: Einfach und effektiv z.B. als Fliesen-Untergrund oder für Vorwandelemente."
+            },
+            {
+                "title": "Q2 Spachteln — Qualitätsstufe 2",
+                "subtitle": "Tapezierfähige Spachtelung — nicht streichfähig",
+                "text": "Diese Verspachtelung entspricht der früheren Standardverspachtelung. Nach der Grundverspachtelung müssen die Fugen, Befestigungsmittel, Innen- und Außenecken, sowie Anschlüsse bis zum Erreichen eines stufenlosen Übergangs zur Plattenoberfläche nachgespachtelt werden.",
+                "case": "Anwendung: Untergrund für Struktur- oder Raufaser-Tapeten, bzw. Struktur-Putze"
+            },
+            {
+                "title": "Q3 Spachteln — Qualitätsstufe 3",
+                "subtitle": "Streichfähige Spachtelung — ohne gehobene Anforderung",
+                "text": "An die Oberfläche werden erhöhte Ansprüche gestellt. Nach der Standardverspachtelung müssen die Fugen breit ausgespachtelt, sowie die Oberfläche vollflächig verspachtelt werden. Durch scharfes Abziehen der restlichen Kartonoberfläche die Poren mit Spachtelmasse geschlossen werden.",
+                "case": "Anwendung: Diese Stufe schafft den perfekten Untergrund für fein strukturierte Tapeten oder matte Anstriche."
+            },
+            {
+                "title": "Q4 Spachteln — Qualitätsstufe 4",
+                "subtitle": "Streich- und lasierfertiger Untergrund mit gehobener Anforderung",
+                "text": "Die Qualitätsstufe 4 erfüllt die höchsten Anforderungen an die gespachtelte Oberfläche. Nach der Streichfähigen Spachtelung (Q3) wird die gesamte Oberfläche durch scharfes Abziehen geglättet.",
+                "case": "Anwendung: Das Beste vom Besten für hochwertige Lasuren und Anstriche"
+            }
+        ]
+    }
+}

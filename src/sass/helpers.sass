@@ -1,0 +1,73 @@
+.list
+  margin-left: 2em
+  margin-right: 1em
+  margin-top: 1em
+  ul
+    list-style: none
+  li
+    font-weight: 600
+    margin-bottom: 0.25em
+    &:before
+      top: 10px
+      left: -12px
+      position: relative
+      content: ''
+      display: inline-block
+      height: 1.4em
+      width: 1.4em
+      background-image: url('data:image/svg+xml;utf8,<?xml version="1.0" encoding="UTF-8"?><svg width="32" height="25" viewBox="0 0 32 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M2 10.5L11.5 20.5L30 2" stroke="%23ffffff" stroke-width="5"/></svg>')
+      background-size: contain
+      background-repeat: no-repeat
+      margin-left: -1.4em
+
+.is-primary-mobile
+  +touch
+    background-color: #014368 !important
+
+.navbar-logo
+  +mobile
+    padding: 0.5rem 0.75rem
+    align-items: center
+    display: flex
+
+.navbar-burger
+  color: $white !important
+
+.footer .navbar
+  background-color: transparent
+  flex-grow: 1
+  justify-content: center
+
+.footer .navbar a.navbar-item:hover
+  background-color: #003452
+
+.is-hoverable:hover
+  color: #57b737
+  border-radius: 6px
+
+.gradient-overlay:after
+  content: ''
+  position: absolute
+  left: 0
+  top: 0
+  width: 100%
+  height: 100%
+  display: inline-block
+  background-image: linear-gradient( 0deg, rgba(2, 59, 91, 1) 0%, rgba(2, 59, 91, 0) 80%)
+
+.tint-overlay:after
+  content: ''
+  position: absolute
+  left: 0
+  top: 0
+  width: 100%
+  height: 100%
+  display: inline-block
+  background-color: rgba(2, 59, 91, 0.7)
+
+.content
+  +mobile
+    &.is-medium-mobile
+        font-size: $size-medium !important
+        word-break: break-all
+        hyphens: auto

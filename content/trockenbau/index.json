@@ -1,0 +1,30 @@
+{
+    "hero": {
+        "title": "Trockenbau",
+        "image": "../../src/images/trockenbau.jpg"
+    },
+    "intro": {
+        "text": "Der Einsatzbereich des Trockenbaus ist vielseitig. So kann der Wohnraum umgestaltet werden, wie Sie ihn sich wünschen. Neue Gebäudewände und -decken können eingebaut oder alte Wände begradigt und verschönert werden. Auch ein nachträglicher Dachausbau kann ohne viel Schmutz und Lärm durchgeführt werden. Selbst Bäder und Feuchträume können nachträglich neu eingebaut oder modernisiert werden, weil speziell dafür imprägnierte Gipsplatten feuchtigkeits¬unempfindlich sind und WCs sowie Badezimmergarnituren problemlos am Ständerwerk aufgehängt werden können.<br/><br/>Dabei erfüllt der Trockenbau sämtliche Anforderungen an den Wärmeschutz, Schallschutz, Brandschutz und zahlt sich aus: er ist preiswert — lärmarm — sauber — schnell!"
+    },
+    "cases": {
+        "headline": "Die Einsatzmöglichkeiten des Trockenbaus sind vielfältig",
+        "case": [
+            {
+                "title": "Abgehängte Decken",
+                "text": "Sie kann rein gestalterisch oder eine Modernisierungsmaßnahme gegen Wärme, Kälte, Schall, Feuer und Strahlung sein."
+            },
+            {
+                "title": "Wandsysteme",
+                "text": "Mit wenig Aufwand ermöglichen Trennwände oder Raumteiler eine andere Raumaufteilung. Auch neue Türen oder Schiebetüren können auf diese Weise leicht gesetzt werden."
+            },
+            {
+                "title": "Vorwandinstallation",
+                "text": "Im Neu- oder Altbau kommen Vorwandinstallationen meist im sanitären Bereich zum Einsatz. Aber auch alte und schiefe Wände können auf diese Weise begradigt und geglättet im neuen Glanz erstrahlen."
+            },
+            {
+                "title": "Bodensysteme",
+                "text": "Mit Trockenunterböden werden alte Böden begradigt ohne Baufeuchte ins Gebäude zu bringen und sind sofort wieder begehbar. Außerdem Zudem wirkt der Trockenboden brand-, wärme- und schallschützend."
+            }
+        ]
+    }
+}

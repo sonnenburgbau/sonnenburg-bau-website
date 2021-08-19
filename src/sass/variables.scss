@@ -1,0 +1,34 @@
+// VARIABLES
+
+$primary-color: #023B5B;
+$secondary-color: #FFBA3A;
+$darker: #262A39;
+$white: #fff;
+
+$primary: $primary-color;
+$info: $secondary-color;
+
+// Navbar
+$navbar-height: 5rem;
+$navbar-item-hover-color: $primary-color;
+$navbar-burger-color: $white;
+
+$family-primary: 'Source Sans Pro', BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+
+$text: $darker;
+$title-color: $primary-color;
+$link: $secondary-color;
+$title-weight: 900;
+
+// Forms
+$label-color: $white;
+
+$content-heading-weight: 800;
+$content-heading-line-height: 1;
+
+// Box
+$box-padding: 2rem;
+$box-radius: 16px;
+
+@import "../../node_modules/bulma/sass/utilities/_all.sass";
+@import "helpers.sass";

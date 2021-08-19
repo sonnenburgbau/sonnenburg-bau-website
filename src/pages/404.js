@@ -1,10 +1,16 @@
 import React from 'react'
 import Layout from '../components/layout'
+import { Link } from 'gatsby'
 
 const NotFoundPage = () => (
   <Layout>
-    <h1>NOT FOUND</h1>
-    <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+    <section className="section is-medium has-text-centered">
+      <h1 className="title is-2 has-text-centered mb-6">Seite nicht gefunden</h1>
+      <Link className="button is-primary is-rounded has-text-weight-semibold" to="/">
+        Zur Startseite
+      </Link>
+    </section>
+    
   </Layout>
 )
 

@@ -9,7 +9,6 @@ export default () => (
 				site {
 					siteMetadata {
 						title
-						author
 						imageUrl
 						description
 						keywords
@@ -25,10 +24,8 @@ export default () => (
 				/>
 				<meta name="description" content={data.site.siteMetadata.description} />
 				<meta name="keywords" content={data.site.siteMetadata.keywords} />
-				<title>{data.site.siteMetadata.title}</title>
-				<html lang="en" />
+				<html lang="de" />
 				{/* Google / Search Engine Meta Tags */}
-				<meta itemprop="name" content={data.site.siteMetadata.author} />
 				<meta
 					itemprop="description"
 					content={data.site.siteMetadata.description}
