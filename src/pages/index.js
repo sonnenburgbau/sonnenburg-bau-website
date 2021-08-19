@@ -75,7 +75,6 @@ export const query = graphql`
     query HomepageQuery {
         homepageJson {
             hero {
-                title
                 image {
                   childImageSharp {
                     fluid(maxHeight: 500, maxWidth: 1600, quality: 90) {
