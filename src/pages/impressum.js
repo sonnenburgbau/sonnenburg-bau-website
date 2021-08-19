@@ -14,7 +14,7 @@ const PrivacyPage = () => (
                         53115 Bonn
                     </p>
                     <p>
-                        Vertretungsberechtigter Geschäftsführer: Wladislav Sonnenburg<br/>
+                        Vertretungsberechtigter Geschäftsführer: Wladislaw Sonnenburg<br/>
                         Registergericht: Amtsgericht Bonn<br/>
                         Registernummer: HRB 26268
                     </p>
