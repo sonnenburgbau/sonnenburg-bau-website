@@ -14,9 +14,9 @@ const Spachtelarbeiten = ({ data }) => (
   <Layout>
     <Hero data={data.spachtelarbeitenJson.hero} />
     <div className="container">
-      <section className="section is-medium">
+      {/* <section className="section is-medium">
         <p className="is-size-4 is-size-5-mobile" dangerouslySetInnerHTML={{ __html: data.spachtelarbeitenJson.intro.text }} />
-      </section>
+      </section> */}
       <section className="section is-medium">
         <Tiles data={data.spachtelarbeitenJson.quality.level} />
       </section>
