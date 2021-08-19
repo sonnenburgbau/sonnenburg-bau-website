@@ -1,6 +1,5 @@
 {
     "hero": {
-        "title": "Kley Kosmetik",
         "image": "../../src/images/hero-homepage.jpg"
     },
     "intro": {
@@ -8,32 +7,5 @@
         "text": "Suchen Sie einen zuverlässigen Partner zu einem fairen Preis? Dann sind Sie bei uns richtig!<br/><br/>Unser Leistungsspektrum umfasst hierbei Kernsanierungen, An- und Umbauten sowie Neubauten.<br/><br/>Wir arbeiten mit professionellen Handwerkern aus dem europäischen Raum zusammen. Dabei verfügt jeder unserer Handwerker über mehrjährige Berufserfahrung.<br/><br/>Sie wissen wie Ihr Bauvorhaben aussehen soll? Wir setzten es für Sie um.",
         "listTitle": "Ihre Vorteile:",
         "list": ["Keine langen Wartezeiten.", "Wir sind auch nach der Vollendung für Sie da.", "Einfache und günstige Preispolitik, ob mit oder ohne Material.", "Wir verwenden nur Material entsprechend Ihrer Bedürfnisse.", "Wir sind bundesweit tätig."]
-    },
-    "leistungen": [
-        {
-            "title": "Trockenbau",
-            "image": "../../src/images/trockenbau.jpg",
-            "link": "/trockenbau" 
-        },
-        {
-            "title": "Spachtelarbeiten",
-            "image": "../../src/images/spachtelarbeiten.jpg",
-            "link": "/spachtelarbeiten" 
-        },
-        {
-            "title": "Boden",
-            "image": "../../src/images/boden.jpg",
-            "link": "/boden" 
-        },
-        {
-            "title": "Tapezieren",
-            "image": "../../src/images/tapezieren.jpg",
-            "link": "/tapezieren" 
-        },
-        {
-            "title": "Malern",
-            "image": "../../src/images/tapezieren.jpg",
-            "link": "/malern" 
-        }
-    ]
+    }
 }
