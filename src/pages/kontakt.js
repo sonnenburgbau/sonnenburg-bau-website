@@ -22,12 +22,10 @@ const ContactsPage = () => (
                             </div>
                         </div>
                     </div>
-                        <div className="content is-large mb-6">
-                            <p>
+                            <p className="is-size-4 is-size-5-mobile mb-6">
                                 Tel.: 0179 8093 261<br/>
                                 E-Mail: <a href="mailto:info@sonnenburg-bau.de">info@sonnenburg-bau.de</a>
                             </p>
-                        </div>
                     <div class="level">
                         <div class="level-left">
                             <div class="level-item">
@@ -41,15 +39,13 @@ const ContactsPage = () => (
                             </div>
                         </div>
                     </div>
-                        <div className="content is-large">
-                            <p>
+                            <p className="is-size-4 is-size-5-mobile">
                                 Sonnenburg Bau UG<br/>
                                 Nideggerstrasse 11<br/>
                                 53115 Bonn
                             </p>
-                        </div>
                     </div>
-                    <div className="column is-two-fifths">
+                    {/* <div className="column is-two-fifths">
                         <div className="box is-shadowless" style={{backgroundColor: '#023B5B', borderRadius: '16px'}}>
                             <h2 className="title is-2 has-text-white">Angebot anfordern</h2>
                             <div class="field">
@@ -78,7 +74,7 @@ const ContactsPage = () => (
                                 </p>
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
                 
             </div>
